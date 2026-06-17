@@ -1,4 +1,4 @@
-# Email Spam Detection — Enron Corpus
+# Email Spam Detection 
 
 Classifying emails as **spam** or **ham** (legitimate) using the Enron email corpus, with a focus on data-quality forensics and the engineering trade-off between model accuracy and runtime performance.
 
