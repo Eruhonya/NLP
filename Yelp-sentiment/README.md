@@ -17,8 +17,6 @@ A well-known educational subset of **10,000 reviews** originating from Kaggle's 
 | `cool` / `useful` / `funny` | Votes the **review itself** received from other users |
 | `business_id` / `user_id` / `review_id` / `date` / `type` | Identifiers and metadata |
 
-> Note: `stars` rates the business, while `cool`/`useful`/`funny` rate the review. The data is imbalanced toward positive reviews, so `class_weight='balanced'` and macro-averaged metrics are used throughout.
-
 **Source:** Yelp Open Dataset (released for educational use) / Kaggle.
 
 ## Approach
