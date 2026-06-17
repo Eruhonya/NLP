@@ -4,7 +4,7 @@ A collection of two end-to-end Natural Language Processing projects, each coveri
 
 | Project | Task | Dataset | Best model | Headline result |
 |---|---|---|---|---|
-| [Yelp Sentiment Analysis](./yelp-sentiment-analysis) | Binary sentiment classification | Yelp reviews (10k) | Logistic Regression / Stacking | F1-macro **0.92–0.93** |
+| [Yelp Sentiment Analysis](./Yelp-sentiment) | Binary sentiment classification | Yelp reviews (10k) | Logistic Regression / Stacking | F1-macro **0.92–0.93** |
 | [Email Spam Detection](./email-spam-detection) | Binary spam vs. ham classification | Enron emails | Linear SVC / Logistic Regression | F1 / Accuracy **~0.99** |
 
 ## Overview
