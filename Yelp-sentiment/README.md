@@ -68,5 +68,3 @@ import nltk
 for pkg in ['stopwords', 'opinion_lexicon', 'wordnet', 'punkt', 'punkt_tab']:
     nltk.download(pkg)
 ```
-
-Open `Yelp_Sentiment_Analysis.ipynb` and run top to bottom.
