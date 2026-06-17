@@ -32,5 +32,3 @@ NLP/
     ├── Email_Spam_Detection.ipynb
     └── data/
 ```
-
-Each subproject has its own README with full details, methodology and results.
