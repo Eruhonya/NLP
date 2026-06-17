@@ -45,12 +45,3 @@ The best results came from **pure text + a well-tuned TF-IDF vectorizer** — ad
 
 Python · pandas · NumPy · scikit-learn · XGBoost · matplotlib · seaborn
 
-## How to run
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost
-```
-
-Place `emails.csv` (Enron spam/ham dataset) in the project directory, open `Email_Spam_Detection.ipynb` and run top to bottom.
-
-> Note: the dataset photo in the first cell is embedded as a notebook attachment, which does not render on GitHub. To show it, save the image to `assets/` and reference it with a relative Markdown link.
